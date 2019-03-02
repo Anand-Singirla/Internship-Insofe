@@ -2,7 +2,7 @@
 rm(list=ls(all=T))
 
 #checking git
-rm(list=ls(all=T))
+rm(list=ls(all=T))##
 
 #setting the working directory
 setwd('/Users/venkataanandsingirla/Downloads/Insofe/insofe_intern')
